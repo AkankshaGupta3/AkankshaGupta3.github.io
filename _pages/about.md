@@ -58,11 +58,7 @@ gravity waves and internal solitary waves.
 
 ## Peer review
 
-I serve as a reviewer for the American Physical Society (*Physical Review
-Fluids*), the American Meteorological Society (*Journal of Physical
-Oceanography*, *Journal of Atmospheric and Oceanic Technology*), the American
-Geophysical Union, *Journal of Fluid Mechanics*, and Elsevier ocean and
-environmental science journals.
+I serve as a reviewer for the Journal of Fluid Mechanics and Journal of Operational Oceanography.
 
 ## Contact
 
