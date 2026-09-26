@@ -61,8 +61,7 @@ Teaching experience
 
 Technical skills
 ======
-* **Programming:** MATLAB, Python (NumPy, xarray, Pandas, Matplotlib, SciPy),
-  Fortran
+* **Programming:** MATLAB, Python,  Fortran
 * **Computing:** HPC clusters, Linux/Bash, Git/GitHub, Jupyter, large-scale
   netCDF processing
 * **Modeling:** ROMS, COAWST; model setup, validation and sensitivity analysis
