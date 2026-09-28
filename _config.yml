@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Akanksha Gupta"
 title_separator          : "-"
-name                     : &name "Akanksha Gupta"
-description              : &description "Akanksha's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : "Akanksha Gupta"
+description              : "Postdoctoral researcher in coastal and geophysical fluid dynamics at Scripps Institution of Oceanography, UC San Diego."
 url                      : https://AkankshaGupta3.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -54,7 +54,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         :  "akanksha-gupta-387841194"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
