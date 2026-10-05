@@ -3,13 +3,13 @@ title: "Lagrangian transport resulting from the superposition of surface gravity
 collection: publications
 category: manuscripts
 permalink: /publication/2026-lagrangian-transport-sgw-isw
-excerpt: 'Under revision. An internal solitary wave propagating beneath the surface modulates the Stokes drift of the surface wave field &mdash; enhancing, reducing, or reversing it depending on wave parameters.'
+excerpt: 'Published. An internal solitary wave propagating beneath the surface modulates the Stokes drift of the surface wave field &mdash; enhancing, reducing, or reversing it depending on wave parameters.'
 date: 2026-06-01
-venue: 'Journal of Physical Oceanography (under revision)'
+venue: 'Journal of Physical Oceanography'
 citation: '<b>Gupta, A.</b>, W. R. Young, and X. Hao. "Lagrangian transport resulting from the superposition of surface gravity waves and an internal solitary wave." <i>Journal of Physical Oceanography</i> (under revision).'
 ---
 
-**Status: under revision.**
+**Status: published.**
 
 Internal solitary waves are common in stratified coastal and shelf seas and can
 reach tens of metres in amplitude while remaining nearly invisible at the
