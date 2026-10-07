@@ -66,7 +66,7 @@ Technical skills
   netCDF processing
 * **Modeling:** ROMS, COAWST; model setup, validation and sensitivity analysis
 * **Analysis:** Time series analysis, statistical modeling, spectral analysis
-  (FFT), EOF/PCA, correlation analysis, QA/QC
+  (FFT), correlation analysis, QA/QC
 * **Observational data:** ADCP, wave buoy (CDIP), river flow gauge,
   meteorological station, ddPCR microbial water quality data
 * **Scientific tools:** COARE algorithm, Gibbs-SeaWater toolbox, Tecplot,
