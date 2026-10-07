@@ -103,11 +103,7 @@ Service and professional activities
 ======
 * **Session Chair** &mdash; Internal and Interfacial Waves session, APS Division
   of Fluid Dynamics Annual Meeting (2024)
-* **Peer reviewer** &mdash; American Physical Society (*Physical Review
-  Fluids*), American Meteorological Society (*Journal of Physical
-  Oceanography*, *Journal of Atmospheric and Oceanic Technology*), American
-  Geophysical Union, *Journal of Fluid Mechanics*, Elsevier ocean and
-  environmental science journals
+* **Peer reviewer** &mdash; *Journal of Fluid Mechanics*, *Journal of Operational Oceanography*
 * **Member** &mdash; American Geophysical Union, American Physical Society
   (Division of Fluid Dynamics), The Oceanography Society
 * **Participant** &mdash; MPOWIR (Mentoring Physical Oceanography Women to
