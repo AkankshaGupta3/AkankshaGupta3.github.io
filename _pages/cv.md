@@ -105,6 +105,6 @@ Service and professional activities
   of Fluid Dynamics Annual Meeting (2024)
 * **Peer reviewer** &mdash; *Journal of Fluid Mechanics*, *Journal of Operational Oceanography*
 * **Member** &mdash; American Geophysical Union, American Physical Society
-  (Division of Fluid Dynamics), The Oceanography Society
+  (Division of Fluid Dynamics)
 * **Participant** &mdash; MPOWIR (Mentoring Physical Oceanography Women to
   Increase Retention)
