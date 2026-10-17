@@ -9,7 +9,7 @@ redirect_from:
 
 I am a postdoctoral researcher at [Scripps Institution of Oceanography
 (SIO)](https://scripps.ucsd.edu/), University of California San Diego, working
-with [Prof. Falk Feddersen](https://falk.ucsd.edu/). Before joining SIO, I
+with [Prof. Falk Feddersen](https://falk.ucsd.edu/) and [Prof. Sarah Giddings](https://giddingslab.ucsd.edu/). Before joining SIO, I
 completed my Ph.D. in the Department of Mechanical Engineering at IIT Kanpur,
 India, in 2022.
 
