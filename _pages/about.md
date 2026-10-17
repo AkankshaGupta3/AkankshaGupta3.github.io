@@ -9,9 +9,11 @@ redirect_from:
 
 I am a postdoctoral researcher at [Scripps Institution of Oceanography
 (SIO)](https://scripps.ucsd.edu/), University of California San Diego, working
-with [Prof. Falk Feddersen](https://falk.ucsd.edu/) and [Prof. Sarah Giddings](https://giddingslab.ucsd.edu/). Before joining SIO, I
-completed my Ph.D. in the Department of Mechanical Engineering at IIT Kanpur,
-India, in 2022.
+with [Prof. Falk Feddersen](https://falk.ucsd.edu/) and
+[Prof. Sarah N. Giddings](https://giddings.ucsd.edu/), and previously with
+[Prof. Xuanting Hao](https://scripps.ucsd.edu/profiles/xhao). Before joining
+SIO, I completed my Ph.D. in the Department of Mechanical Engineering at IIT
+Kanpur, India, in 2022.
 
 My research sits at the intersection of fundamental fluid mechanics and applied
 environmental science. I work on **coastal and geophysical fluid dynamics** —
@@ -35,14 +37,11 @@ pathogen concentrations against multi-source observational data.
 I validate the **Pathogen Forecast Model (PFM)** — a process-based five-day beach
 advisory forecast system for the San Diego/Tijuana region — against
 observational data from ADCPs, wave buoys, river flow gauges, and meteorological
-stations. My analysis established that wastewater discharge from the Tijuana
-River Estuary dominates the enterococcus signal along the Imperial Beach
-shoreline, a finding that directly informs how the forecast model is structured
-and how public health beach advisories are issued.
+stations.
 
 Previously at SIO I worked with Prof. Xuanting Hao and Prof. William R. Young on
 Lagrangian transport arising from the nonlinear interaction between surface
-gravity waves and internal solitary waves.
+gravity waves and internal solitary waves in the stratified deep ocean.
 
 ## Education
 
@@ -58,7 +57,8 @@ gravity waves and internal solitary waves.
 
 ## Peer review
 
-I serve as a reviewer for the Journal of Fluid Mechanics and Journal of Operational Oceanography.
+I have reviewed for *Journal of Fluid Mechanics* and the *Journal of
+Operational Oceanography*.
 
 ## Contact
 
