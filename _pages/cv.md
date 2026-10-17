@@ -23,14 +23,25 @@ Research experience
 ======
 * **2023&ndash;present: Postdoctoral Researcher**
   * Scripps Institution of Oceanography, UC San Diego
-  * PI: Prof. Falk Feddersen (2025&ndash;present); Prof. Xuanting Hao
-    (2023&ndash;2025)
-  * Validating the Pathogen Forecast Model against ADCP, wave buoy, flow gauge
-    and meteorological observations; establishing that Tijuana River Estuary
-    discharge dominates the enterococcus signal at Imperial Beach shoreline
-    stations
+  * PIs: Prof. Falk Feddersen and Prof. Sarah N. Giddings
+    (2025&ndash;present); Prof. Xuanting Hao (2023&ndash;2025)
+  * Built and operate the automated daily pipeline behind the group's public
+    Pathogen Forecast Model diagnostics site, which ingests updated model output
+    and observations each morning and publishes verification plots and an
+    interactive skill dashboard
+  * Quality-control continuous records from the South Bay and Point Loma Ocean
+    Outfall moorings, the Imperial Beach mini-mooring, the Del Mar moorings,
+    San Diego Bay tide gauges, and flow gauges on the Tijuana River and at
+    Punta Bandera
+  * Process raw Nortek ADCP records from three moorings into analysis-ready
+    MATLAB and netCDF files; compare HF radar surface current fields against
+    model output and in-situ currents
+  * Model validation and sensitivity analysis for the Pathogen Forecast Model
+    against ADCP, wave, flow gauge, meteorological and ddPCR water quality
+    observations
   * Lagrangian transport from the nonlinear interaction of surface gravity waves
-    and internal solitary waves, using analytical theory and HPC simulations
+    and internal solitary waves in the stratified deep ocean, using analytical
+    theory and HPC simulations
   * Participant, TFO Seamounts 2024 NESMA research cruise aboard R/V Roger
     Revelle (North Atlantic) &mdash; air&ndash;sea flux measurement and analysis
     using the COARE algorithm and the Gibbs-SeaWater toolbox
@@ -61,14 +72,18 @@ Teaching experience
 
 Technical skills
 ======
-* **Programming:** MATLAB, Python,  Fortran
-* **Computing:** HPC clusters, Linux/Bash, Git/GitHub, Jupyter, large-scale
-  netCDF processing
-* **Modeling:** ROMS, COAWST; model setup, validation and sensitivity analysis
-* **Analysis:** Time series analysis, statistical modeling, spectral analysis
-  (FFT), correlation analysis, QA/QC
-* **Observational data:** ADCP, wave buoy (CDIP), river flow gauge,
-  meteorological station, ddPCR microbial water quality data
+* **Programming:** MATLAB, Python (NumPy, xarray, Pandas, Matplotlib, SciPy)
+* **Computing:** HPC clusters (SDSC Expanse, group clusters), SLURM,
+  Linux/Bash, Git/GitHub, Jupyter, conda, large-scale netCDF processing
+* **Modeling:** ROMS, COAWST; model configuration, validation and sensitivity
+  analysis
+* **Analysis:** Time series analysis, spectral analysis (FFT), correlation
+  analysis, forecast skill and threshold-based verification metrics, automated
+  QA/QC of continuous instrument records
+* **Observational data:** Nortek ADCP (raw instrument files through to
+  analysis-ready netCDF), HF radar surface currents, wave records (CDIP), river
+  flow gauge, tide gauge, meteorological station, ddPCR microbial water quality
+  data
 * **Scientific tools:** COARE algorithm, Gibbs-SeaWater toolbox, Tecplot,
   AutoCAD, Ansys Fluent, LaTeX
 
@@ -102,9 +117,10 @@ Awards and fellowships
 Service and professional activities
 ======
 * **Session Chair** &mdash; Internal and Interfacial Waves session, APS Division
-  of Fluid Dynamics Annual Meeting (2024)
-* **Peer reviewer** &mdash; *Journal of Fluid Mechanics*, *Journal of Operational Oceanography*
+  of Fluid Dynamics Annual Meeting (2024, 2025)
+* **Peer reviewer** &mdash; *Journal of Fluid Mechanics*, *Journal of
+  Operational Oceanography*
 * **Member** &mdash; American Geophysical Union, American Physical Society
-  (Division of Fluid Dynamics)
+  (Division of Fluid Dynamics), The Oceanography Society
 * **Participant** &mdash; MPOWIR (Mentoring Physical Oceanography Women to
   Increase Retention)
