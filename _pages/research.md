@@ -19,7 +19,7 @@ concentrations will be high requires understanding both the biological sources
 and the physical transport &mdash; wave mixing, currents, freshwater discharge,
 and dilution.
 
-I work on the **Pathogen Forecast Model (PFM)**, a process-based five-day beach
+I work on the [**Pathogen Forecast Model (PFM)**](https://pfmweb.ucsd.edu/), a process-based five-day beach
 advisory system for the region. The model tracks a passive dye tracer
 representing wastewater; my analysis compares those dye predictions against
 enterococcus concentrations measured by digital droplet PCR (ddPCR) at shoreline
