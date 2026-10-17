@@ -36,11 +36,6 @@ an interactive skill dashboard. I also process raw Nortek ADCP records from
 three moorings into analysis-ready MATLAB and netCDF files, and compare HF radar
 surface current fields against model output and in-situ currents.
 
-**Key finding:** Tijuana River Estuary discharge dominates the enterococcus
-signal at all Imperial Beach shoreline stations, with near-zero contribution
-from sources further south. This directly constrains how the forecast model
-should be structured and which inputs matter most for accurate advisories.
-
 Related publications: Feddersen et al. (2026, *ES&T*); Gupta et al.
 (*Ocean Modelling*, under review).
 
