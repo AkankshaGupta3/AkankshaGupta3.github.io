@@ -6,7 +6,7 @@ permalink: /publication/2024-stokes-drift-crest-trough
 excerpt: 'A physically transparent derivation of Stokes drift based on the asymmetry between particle motion at wave crests and troughs.'
 date: 2024-07-01
 venue: 'Journal of Physical Oceanography'
-paperurl: 'https://journals.ametsoc.org/view/journals/phoc/54/7/JPO-D-23-0247.1.xml'
+paperurl: 'https://journals.ametsoc.org/view/journals/phoc/54/5/JPO-D-23-0247.1.xml?utm_source=researchgate.net&utm_medium=article'
 citation: 'Guha, A., and <b>A. Gupta</b> (2024). "Understanding Stokes drift mechanism via crest and trough phase estimates." <i>Journal of Physical Oceanography</i>, 54, 1143&ndash;1151.'
 ---
 
