@@ -3,9 +3,9 @@ title: "Model sensitivity to freshwater discharge and bottom friction: Tijuana R
 collection: publications
 category: manuscripts
 permalink: /publication/2026-model-sensitivity-discharge-friction
-excerpt: 'Submitted. A sensitivity study of nearshore salinity and tracer transport to freshwater discharge and bed roughness parameterization in a coupled coastal ocean model.'
+excerpt: 'Under review. A sensitivity study of nearshore salinity and tracer transport to freshwater discharge and bed roughness parameterization in a coupled coastal ocean model.'
 date: 2026-09-01
-venue: 'Ocean Modelling (submitted)'
+venue: 'Ocean Modelling (under review)'
 citation: '<b>Gupta, A.</b>, et al. "Model sensitivity to freshwater discharge and bottom friction: Tijuana River Estuary to the San Diego Bight shoreline." <i>Ocean Modelling</i> (submitted, September 2026).'
 ---
 
