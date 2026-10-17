@@ -11,7 +11,7 @@ I am a postdoctoral researcher at [Scripps Institution of Oceanography
 (SIO)](https://scripps.ucsd.edu/), University of California San Diego, working
 with [Prof. Falk Feddersen](https://falk.ucsd.edu/) and
 [Prof. Sarah N. Giddings](https://giddings.ucsd.edu/), and previously with
-[Prof. Xuanting Hao](https://sites.google.com/ucsd.edu/boat/home). Before joining
+[Prof. Xuanting Hao](https://scripps.ucsd.edu/profiles/xhao). Before joining
 SIO, I completed my Ph.D. in the Department of Mechanical Engineering at IIT
 Kanpur, India, in 2022.
 
@@ -34,10 +34,20 @@ pathogen concentrations against multi-source observational data.
 
 ## Current work
 
-I validate the **Pathogen Forecast Model (PFM)** — a process-based five-day beach
-advisory forecast system for the San Diego/Tijuana region — against
-observational data from ADCPs, wave buoys, river flow gauges, and meteorological
-stations.
+I work on the **Pathogen Forecast Model (PFM)** — a process-based five-day beach
+advisory forecast system for the San Diego/Tijuana region — comparing its dye
+predictions against enterococcus concentrations measured by ddPCR at shoreline
+monitoring stations, alongside ADCP currents, wave records, river flow gauge
+data, and meteorological observations.
+
+I also built and operate the automated daily pipeline behind the project's
+public diagnostics site. Each morning it ingests updated forecast output and new
+observations, quality-controls continuous records from the ocean outfall and
+nearshore moorings, San Diego Bay tide gauges, and flow gauges on the Tijuana
+River and at Punta Bandera, and publishes verification plots and an interactive
+skill dashboard. I process raw Nortek ADCP records into analysis-ready MATLAB
+and netCDF files, and compare HF radar surface currents against model output and
+in-situ observations.
 
 Previously at SIO I worked with Prof. Xuanting Hao and Prof. William R. Young on
 Lagrangian transport arising from the nonlinear interaction between surface
